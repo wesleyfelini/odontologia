@@ -1,0 +1,10 @@
+Itens necessários= navbar com 3 botoes:inicio, serviços e contato
+Slide de fotos= quantidade livre
+História ( texto e foto )
+Serviços= 6 cards
+Formulário
+Tamanhos: logo= 80x80 px
+Slide fotos= 1400x500 px
+Cards= 1280x720 px
+
+Cada item deve ter uma row e cada row deve ter uma cool
